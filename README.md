@@ -1,4 +1,4 @@
-# Investment-Calculator
+# Investment Calculator
 
 ## Screenshot 
 
